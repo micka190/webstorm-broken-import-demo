@@ -49,3 +49,8 @@ regardless.
 Here's a screenshot of my Webstorm's `Editor/Code Style/JavaScript/imports` settings:
 
 ![JavaScript import settings](editor-settings.PNG)
+
+## Video
+
+https://user-images.githubusercontent.com/63615275/126184753-4a655fe3-558c-4031-b4dd-f0ad5d58ee3c.mp4
+
